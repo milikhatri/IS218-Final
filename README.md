@@ -1,50 +1,29 @@
-# IS218-sign-in
+# IS218-Final Project
 # Class Sign-In Sheet
 
-## November - December 2023 Schedule
+**Class Meeting Times:** Wednesdays and Fridays  
+**Meeting Dates:** November 8 - December 13, 2023  
+**Time:** 1:00 PM - 2:30 PM  
 
-Class meets every Wednesday and Friday from November 8th until December 13th, 2023, except for the Thanksgiving break.
+## November
 
-Please sign your name under the date you attend class.
+| Date         | Student 1 | Student 2 |
+|--------------|-----------|-----------|
+| Wed, Nov 8   |           |           |
+| Fri, Nov 10  |           |           |
+| Wed, Nov 15  |           |           |
+| Fri, Nov 17  |           |           |
+| *No Class (Thanksgiving Break)* | | |
+| Wed, Nov 22  |           |           |
+| Fri, Nov 24  |           |           |
 
-### November
+## December
 
-- **Wednesday, November 8, 2023**
-  - [ ] Name:
-  - [ ] Name:
+| Date       | Student 1 | Student 2 |
+|------------|-----------|-----------|
+| Wed, Nov 29|           |           |
+| Fri, Dec 1 |           |           |
+| Wed, Dec 6 |           |           |
+| Fri, Dec 8 |           |           |
+| Wed, Dec 13|           |           |
 
-- **Friday, November 10, 2023**
-  - [ ] Name:
-  - [ ] Name:
-
-- **Wednesday, November 15, 2023**
-  - [ ] Name:
-  - [ ] Name:
-
-- **Friday, November 17, 2023**
-  - [ ] Name:
-  - [ ] Name:
-
-(Thanksgiving Break - No Class)
-
-- **Wednesday, November 29, 2023**
-  - [ ] Name:
-  - [ ] Name:
-
-### December
-
-- **Friday, December 1, 2023**
-  - [ ] Name:
-  - [ ] Name:
-
-- **Wednesday, December 6, 2023**
-  - [ ] Name:
-  - [ ] Name:
-
-- **Friday, December 8, 2023**
-  - [ ] Name:
-  - [ ] Name:
-
-- **Wednesday, December 13, 2023**
-  - [ ] Name:
-  - [ ] Name:
