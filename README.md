@@ -7,7 +7,7 @@
 
 ## November
 
-| Date         | Student 1 | Student 2 |
+| Date         | Mily | Nurjahan |
 |--------------|-----------|-----------|
 | Wed, Nov 8   |           |           |
 | Fri, Nov 10  |           |           |
@@ -19,7 +19,7 @@
 
 ## December
 
-| Date       | Student 1 | Student 2 |
+| Date       | Mily | Nurjahan |
 |------------|-----------|-----------|
 | Wed, Nov 29|           |           |
 | Fri, Dec 1 |           |           |
