@@ -7,9 +7,9 @@
 
 ## November
 
-| Date         | Mily | Nurjahan |
+| Date         | Mili | Nurjahan |
 |--------------|-----------|-----------|
-| Wed, Nov 8   |           |           |
+| Wed, Nov 8   |    X       |           |
 | Fri, Nov 10  |           |           |
 | Wed, Nov 15  |           |           |
 | Fri, Nov 17  |           |           |
@@ -19,7 +19,7 @@
 
 ## December
 
-| Date       | Mily | Nurjahan |
+| Date       | Mili | Nurjahan |
 |------------|-----------|-----------|
 | Wed, Nov 29|           |           |
 | Fri, Dec 1 |           |           |
