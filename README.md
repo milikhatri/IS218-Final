@@ -9,8 +9,8 @@
 
 | Date         | Mili | Nurjahan |
 |--------------|-----------|-----------|
-| Wed, Nov 8   |           |           |
-| Fri, Nov 10  |           |           |
+| Wed, Nov 8   |    X       |     X      |
+| Fri, Nov 10  |     X     |     X      |
 | Wed, Nov 15  |           |           |
 | Fri, Nov 17  |           |           |
 | *No Class (Thanksgiving Break)* | | |
