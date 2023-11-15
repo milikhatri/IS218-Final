@@ -11,7 +11,7 @@
 |--------------|-----------|-----------|
 | Wed, Nov 8   |    X       |     X      |
 | Fri, Nov 10  |     X     |      X      |
-| Wed, Nov 15  |           |      X      |
+| Wed, Nov 15  |      X    |      X      |
 | Fri, Nov 17  |           |           |
 | *No Class (Thanksgiving Break)* | | |
 | Wed, Nov 22  |           |           |
