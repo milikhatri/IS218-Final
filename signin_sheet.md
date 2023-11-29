@@ -19,7 +19,7 @@
 
 | Date       | Mili | Nurjahan |
 |------------|-----------|-----------|
-| Wed, Nov 29|           |           |
+| Wed, Nov 29|           |     X      |
 | Fri, Dec 1 |           |           |
 | Wed, Dec 6 |           |           |
 | Fri, Dec 8 |           |           |
